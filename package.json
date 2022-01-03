@@ -1,7 +1,7 @@
 {
-  "name": "@udotcash/u-exchange-sdk",
+  "name": "@violeta.at.bww/thelog-sdk",
   "license": "MIT",
-  "version": "1.0.4",
+  "version": "1.2.2",
   "description": "🛠 An SDK for building applications on top of U.EXCHANGE.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antron3000/u-exchange-sdk.git"
+    "url": "git+https://github.com/BDU-NFT-Course/TheLog-DEX-sdk"
   },
   "keywords": [
-    "u-exchange",
+    "thelog",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -60,11 +60,11 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/UdotCASH/u-exchange-sdk/issues"
+    "url": "https://github.com/BDU-NFT-Course/TheLog-DEX-sdk/issues"
   },
-  "homepage": "https://github.com/UdotCASH/u-exchange-sdk#readme",
+  "homepage": "https://github.com/BDU-NFT-Course/TheLog-DEX-sdk#readme",
   "directories": {
     "test": "test"
   },
-  "author": "udotcash"
+  "author": "violeta.at.bww"
 }
